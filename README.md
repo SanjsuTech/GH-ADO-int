@@ -1,2 +1,2 @@
 # GH-ADO-int
-Integrating GH with ADO
+Integrating Github with Azure DevOps
